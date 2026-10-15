@@ -1,0 +1,5 @@
+node_modules
+dist
+.cache
+# Your plans and notes stay on this machine.
+plans/
